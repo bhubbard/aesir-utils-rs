@@ -1,13 +1,13 @@
 # aesir-utils-rs
 
-[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue.svg)](https://bhubbard.github.io/aesir-utils-rs/)
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue.svg)](https://code.brandonhubbard.com/aesir-utils-rs/)
 [![Crates.io](https://img.shields.io/badge/crates.io-v0.1.0-orange.svg)](https://crates.io)
 [![License: MIT OR Apache-2.0](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue.svg)](#license)
 [![Rust: 2024 Edition](https://img.shields.io/badge/Rust-2024%20Edition-black?logo=rust)](https://www.rust-lang.org)
 
 > Pure Rust port of FiveM safezone calculation, aspect ratio distortion correction, and UI anchor positioning engine (`manups4e/aesir_utils`).
 
-Interactive Simulator Demo: **[bhubbard.github.io/aesir-utils-rs](https://bhubbard.github.io/aesir-utils-rs/)**
+Interactive Simulator Demo: **[code.brandonhubbard.com/aesir-utils-rs](https://code.brandonhubbard.com/aesir-utils-rs/)**
 
 ---
 
@@ -112,7 +112,7 @@ let element_height = circular_radius * 2.0;
 
 ## Interactive Simulator
 
-Explore the live web simulator at [bhubbard.github.io/aesir-utils-rs](https://bhubbard.github.io/aesir-utils-rs/):
+Explore the live web simulator at [code.brandonhubbard.com/aesir-utils-rs](https://code.brandonhubbard.com/aesir-utils-rs/):
 - **Live Safezone Slider**: Dynamic preview of margin calculation and bounds.
 - **Resolution Switcher**: 1080p, 1440p, 4K, 21:9 Ultrawide, 32:9 Super Ultrawide, 4:3 CRT.
 - **Distortion Comparison**: Toggle between uncompensated oval stretch and compensated true circle radar geometry.
