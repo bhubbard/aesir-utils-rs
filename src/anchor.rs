@@ -159,6 +159,7 @@ impl VirtualCanvas {
 }
 
 /// Helper for calculating anchor positions relative to safezone rects.
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Default)]
 pub struct AnchorPositioner;
 
 impl AnchorPositioner {
